@@ -1,0 +1,1 @@
+# stylelint-plugin-license-header

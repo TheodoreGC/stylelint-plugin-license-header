@@ -1,0 +1,28 @@
+{
+  "name": "stylelint-plugin-license-header",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheodoreGC/stylelint-plugin-license-header.git"
+  },
+  "keywords": [
+    "stylelint"
+  ],
+  "author": {
+    "name": "Theodore GARSON",
+    "email": "theodore.corbeaux@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheodoreGC/stylelint-plugin-license-header/issues"
+  },
+  "homepage": "https://github.com/TheodoreGC/stylelint-plugin-license-header#readme",
+  "dependencies": {
+    "stylelint": "^13.7.0"
+  }
+}
