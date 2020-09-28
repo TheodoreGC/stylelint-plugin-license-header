@@ -4,7 +4,7 @@ const stylelint = require('stylelint');
 const ruleName = 'plugin/license-header';
 const messages = stylelint.utils.ruleMessages(ruleName, { rejected: 'Invalid license header' });
 
-const CLEANUP_REGEX = /[\/**\/\n ]/;
+const CLEANUP_REGEX = /[\/**\/\r?\n|\r ]/;
 
 function readLicenseFile(path) {
   if (!path) {
