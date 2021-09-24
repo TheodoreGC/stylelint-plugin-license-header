@@ -1,6 +1,6 @@
 {
   "name": "stylelint-plugin-license-header",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A plugin to validate the presence of/add license header in style files.",
   "main": "index.js",
   "publishConfig": { "registry": "https://registry.npmjs.org/" },
